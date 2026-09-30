@@ -6,7 +6,7 @@ LABEL org.opencontainers.image.version="0.0.1"
 LABEL com.harbormaster.blueprint="Spring Boot 4.0"
 LABEL com.harbormaster.model="FinTech Industry Domain Model"
 LABEL com.harbormaster.generated="2026-09-29"
-#LABEL com.harbormaster.certification="fe4c315b-da94-422a-af08-4f35a69e5bb4"
+#LABEL com.harbormaster.certification="56e35c49-886e-4f93-a53f-be2e708f2435"
 
 RUN groupadd --system spring && useradd --system --gid spring spring
 USER spring:spring

@@ -47,7 +47,6 @@
 <!-- required to overcome security vulenrability identified in the version of jackson spring boot 4.1.1 uses -->
         <jackson-2-bom.version>2.21.6</jackson-2-bom.version>
         <jackson-bom.version>3.1.6</jackson-bom.version>
-        <kotlin.version>2.2.x</kotlin.version>
     </properties>
 
     <build>
