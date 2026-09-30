@@ -5,8 +5,8 @@ LABEL org.opencontainers.image.title="fintechOnSpring40"
 LABEL org.opencontainers.image.version="0.0.1"
 LABEL com.harbormaster.blueprint="Spring Boot 4.0"
 LABEL com.harbormaster.model="FinTech Industry Domain Model"
-LABEL com.harbormaster.generated="2026-09-29"
-#LABEL com.harbormaster.certification="56e35c49-886e-4f93-a53f-be2e708f2435"
+LABEL com.harbormaster.generated="2026-09-30"
+#LABEL com.harbormaster.certification="45f998f0-1e1a-4d50-9d7f-2eb9c76411e9"
 
 RUN groupadd --system spring && useradd --system --gid spring spring
 USER spring:spring
